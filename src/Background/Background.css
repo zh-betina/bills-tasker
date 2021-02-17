@@ -1,0 +1,13 @@
+
+.bgr img:first-child{
+    position: absolute;
+    top: 10rem;
+    left: 10rem;
+}
+
+.bgr img:last-child{
+    position: absolute;
+    bottom: 3rem;
+    right: 4rem;
+    z-index: 10;
+}

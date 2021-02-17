@@ -1,0 +1,46 @@
+.btn__main{
+    height: 5.5rem;
+    width: 28rem;
+    border: 2px solid #34D1BF;
+    border-radius: 10px;
+    background: transparent;
+    margin: 1rem;
+    text-align: left;
+    transition: all .4s;
+}
+
+.btn__main svg:first-child{
+    position: relative;
+    left: 6rem;
+}
+
+.btn__main:hover{
+    cursor: pointer;
+    background-color: #eafffc;
+}
+
+.btn__number-info{
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.2rem;
+    background-color: #F2994A;
+    border-radius: 50%;
+    height: 28px;
+    width: 5rem;
+    position: relative;
+    text-align: center;
+    margin: 0;
+    top: -3rem;
+    left: 3rem;
+    padding: .5rem .7rem;
+
+}
+
+.txt__btn--main{
+    display: inline;
+    color: #6C6C6C;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 9rem;
+}

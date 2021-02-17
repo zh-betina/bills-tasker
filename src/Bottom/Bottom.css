@@ -1,0 +1,6 @@
+.bottom{
+    position: absolute;
+    bottom: 4.85rem;
+    right: 6.85rem;
+    z-index: 3;
+}
