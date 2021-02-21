@@ -6,8 +6,7 @@ const Header = props => {
         <header className="header">
             <h1 className="txt__header--title">{props.title}</h1>
             <div className="header__content">
-                <img className="header__logo" src={props.logo} alt="Logo"></img>
-                <p className="txt__header--greeting">Bonjour, {props.username}</p>
+                <p className="txt__header--greeting">Hi, {props.username}</p>
                 <p className="header__date">{props.date}</p>
                 <LogoutIcon />
             </div>

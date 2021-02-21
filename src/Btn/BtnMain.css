@@ -1,9 +1,9 @@
 .btn__main{
-    height: 5.5rem;
+    height: 4.5rem;
     width: 28rem;
-    border: 2px solid #34D1BF;
+    border: 2px solid transparent;
     border-radius: 10px;
-    background: transparent;
+    background: #E0DADB;
     margin: 1rem;
     text-align: left;
     transition: all .4s;
@@ -11,29 +11,28 @@
 
 .btn__main svg:first-child{
     position: relative;
-    left: 6rem;
+    left: 2rem;
 }
 
 .btn__main:hover{
     cursor: pointer;
-    background-color: #eafffc;
+    background-color: #d2d3c9;
 }
 
 .btn__number-info{
     color: #fff;
     font-weight: 700;
     font-size: 1.2rem;
-    background-color: #F2994A;
+    background-color: #495464;
     border-radius: 50%;
     height: 28px;
     width: 5rem;
     position: relative;
     text-align: center;
     margin: 0;
-    top: -3rem;
-    left: 3rem;
+    top: -1rem;
+    left: 7rem;
     padding: .5rem .7rem;
-
 }
 
 .txt__btn--main{
@@ -42,5 +41,5 @@
     font-size: 1.2rem;
     text-transform: uppercase;
     font-weight: bold;
-    margin-left: 9rem;
+    margin-left: 6rem;
 }

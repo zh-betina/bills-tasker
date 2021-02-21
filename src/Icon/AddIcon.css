@@ -1,0 +1,11 @@
+.AddIcon{
+    position: absolute;
+    bottom: 3rem;
+    right: 4rem;
+    transition: all .4s;
+    cursor: pointer;
+}
+
+.AddIcon:hover{
+    transform: scale(1.2);
+}

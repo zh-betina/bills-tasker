@@ -3,13 +3,11 @@
     box-shadow: 0px 4px 40px rgba(0, 66, 218, 0.1);
     border-radius: 10px;
     background-color: #fff;
-    width: 89.7rem;
     height: 5.5rem;
     position: absolute;
     top: 2rem;
-    left: 5.6rem;
-    padding-left: 4rem;
-    padding-right: 4rem;
+    left: 0;
+    padding-left: 1rem;
 }
 
 .header,
@@ -23,15 +21,10 @@
 .header__content{
     justify-content: space-around;
     width: 28.6rem;
-    margin-right: -3.2rem;
-}
-
-.header__logo{
-    margin-top: 1rem;
 }
 
 .header__date{
-    background-color: #4686EE;
+    background-color: #E0DADB;
     color: #fff;
     font-size: .9rem;
     padding: .6rem;
@@ -42,8 +35,9 @@
 
 .txt__header--title{
     font-size: 1.8rem;
-    color: #4686EE;
+    color: #7e7474;
     font-weight: 500;
+    margin-left: 2rem;
 }
 
 .txt__header--greeting{

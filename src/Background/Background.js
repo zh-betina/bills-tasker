@@ -1,12 +1,11 @@
-import bgrStars from "./bgrSvgStars.svg";
+import bgr from "./bgr.jpg";
 
 import "./Background.css";
 
 const Background = () => {
     return (
         <div className="bgr">
-            <img className="bgr__stars" src={bgrStars}></img>
-            <img className="bgr__stars" src={bgrStars}></img>
+            <img className="bgr__img" src={bgr}></img>
         </div>
     )
 }
