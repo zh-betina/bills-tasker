@@ -1,5 +1,7 @@
 # ReactJS exercise for internship interview
 
+Available for live preview on [HEROKU](bills-tasker.herokuapp.com/)
+
 Exercise serving to show the transition between two pages with the usage of react-router-dom.
 Dynamic date display.
 
